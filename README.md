@@ -1,62 +1,42 @@
-# 🚀 Sistema de Registro QR
-
 <div align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/3209/3209265.png" width="140">
+# ⚡ QR REGISTER SYSTEM ⚡
 
-# 📌 Registro Inteligente con Código QR
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="700">
 
-### Sistema moderno de registro de usuarios con generación automática de QR
+### 🔥 Sistema de Registro Inteligente con Generación QR 🔥
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![QR](https://img.shields.io/badge/QR-Code-black?style=for-the-badge)
+<br>
 
-<img src="https://img.shields.io/github/stars/RoninReaperX?style=social">
-<img src="https://img.shields.io/github/forks/RoninReaperX?style=social">
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/VERSION-1.0-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/MADE%20BY-RONINREAPERX-black?style=for-the-badge">
+
+<br>
+
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JS](https://skillicons.dev/icons?i=javascript)
 
 </div>
 
 ---
 
-# 🌟 Características
+# 🧠 Descripción
 
-✨ Interfaz moderna y elegante  
-✨ Generación automática de QR  
-✨ Validación de formulario  
-✨ Diseño responsivo  
-✨ Almacenamiento local  
-✨ Fondo dinámico  
-✨ Efecto Glassmorphism  
-✨ Experiencia rápida y ligera  
+Sistema web desarrollado para registrar usuarios y generar automáticamente un código QR con toda la información ingresada.
+
+El proyecto utiliza únicamente tecnologías frontend, por lo que es rápido, ligero y fácil de ejecutar.
 
 ---
 
-# 📷 Vista previa
+# 🎯 Funciones Principales
 
-<div align="center">
-
-<img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=100" width="700" style="border-radius:12px;">
-
-</div>
-
----
-
-# 🛠 Tecnologías Utilizadas
-
-| Tecnología | Uso |
-|---|---|
-| HTML5 | Estructura |
-| CSS3 | Diseño visual |
-| JavaScript | Lógica del sistema |
-| QRCode.js | Generación QR |
-
----
-
-# 📂 Estructura del Proyecto
-
-```bash
-📦 sistema-qr
- ┣ 📜 index.html
- ┗ 📜 README.md
+```diff id="6p53uv"
++ Registro de usuarios
++ Generación automática de QR
++ Validación de campos
++ Diseño moderno
++ Responsive Design
++ LocalStorage
++ Glass UI
