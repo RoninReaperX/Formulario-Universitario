@@ -1,33 +1,62 @@
-# 📌 Sistema de Registro QR
+# 🚀 Sistema de Registro QR
 
-Sistema web simple desarrollado con HTML, CSS y JavaScript que permite registrar usuarios y generar automáticamente un código QR con la información ingresada.
+<div align="center">
 
----
+<img src="https://cdn-icons-png.flaticon.com/512/3209/3209265.png" width="140">
 
-# 🚀 Características
+# 📌 Registro Inteligente con Código QR
 
-✅ Registro de usuarios  
-✅ Generación automática de QR  
-✅ Diseño moderno y responsivo  
-✅ Almacenamiento temporal usando LocalStorage  
-✅ Interfaz visual elegante  
-✅ Fondo dinámico con efecto oscuro  
-✅ Sin necesidad de base de datos  
+### Sistema moderno de registro de usuarios con generación automática de QR
 
----
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![QR](https://img.shields.io/badge/QR-Code-black?style=for-the-badge)
 
-# 🛠 Tecnologías utilizadas
+<img src="https://img.shields.io/github/stars/RoninReaperX?style=social">
+<img src="https://img.shields.io/github/forks/RoninReaperX?style=social">
 
-- HTML5
-- CSS3
-- JavaScript
-- Librería QRCode.js
+</div>
 
 ---
 
-# 📂 Estructura del proyecto
+# 🌟 Características
+
+✨ Interfaz moderna y elegante  
+✨ Generación automática de QR  
+✨ Validación de formulario  
+✨ Diseño responsivo  
+✨ Almacenamiento local  
+✨ Fondo dinámico  
+✨ Efecto Glassmorphism  
+✨ Experiencia rápida y ligera  
+
+---
+
+# 📷 Vista previa
+
+<div align="center">
+
+<img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=100" width="700" style="border-radius:12px;">
+
+</div>
+
+---
+
+# 🛠 Tecnologías Utilizadas
+
+| Tecnología | Uso |
+|---|---|
+| HTML5 | Estructura |
+| CSS3 | Diseño visual |
+| JavaScript | Lógica del sistema |
+| QRCode.js | Generación QR |
+
+---
+
+# 📂 Estructura del Proyecto
 
 ```bash
-📁 proyecto-qr
- ├── index.html
- └── README.md
+📦 sistema-qr
+ ┣ 📜 index.html
+ ┗ 📜 README.md
